@@ -1,4 +1,6 @@
 import java.util.Scanner;
+//adno abdirisaq abshir
+//c1230395
 
 public class EVC {
     static double balance = 500;
